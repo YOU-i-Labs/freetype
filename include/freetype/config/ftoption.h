@@ -105,7 +105,7 @@ FT_BEGIN_HEADER
   /*                       cff:no-stem-darkening=1 \                       */
   /*                       autofitter:warping=1                            */
   /*                                                                       */
-#define FT_CONFIG_OPTION_ENVIRONMENT_PROPERTIES
+//#define FT_CONFIG_OPTION_ENVIRONMENT_PROPERTIES
 
 
   /*************************************************************************/
